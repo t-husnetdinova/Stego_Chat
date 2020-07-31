@@ -1,0 +1,7 @@
+__pycache__ 
+venv 
+server/ 
+client2/ 
+client1/
+image*
+.DS_Store
