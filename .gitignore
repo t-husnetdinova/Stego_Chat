@@ -1,7 +1,8 @@
-__pycache__ 
-venv 
-server/ 
-client2/ 
+__pycache__
+venv
+server/
+client2/
 client1/
 image*
+totally_not_secret*
 .DS_Store
