@@ -2,6 +2,8 @@ TRYSTAN KAES, TAMMY HUSNETDINOVA, ALEX VERKEST
 
 CSCI 4742
 
+Video Demo:
+
 Final Project: Totally Just a Picture Sending Service
 
 **************************************************************
@@ -74,3 +76,9 @@ IN PROGRESS
 **********************
 ** WORKS PARTIALLY  **
 **********************
+
+
+Sources:
+https://docs.python.org/3/library/socket.html
+https://docs.python.org/3/library/select.html
+https://medium.com/better-programming/image-steganography-using-python-2250896e48b9
